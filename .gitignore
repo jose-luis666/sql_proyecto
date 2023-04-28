@@ -1,3 +1,12 @@
+actor.csv
+category.csv
+film.csv
+inventory.csv
+language.csv
+old_HDD.csv
+rental.csv
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
