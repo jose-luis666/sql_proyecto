@@ -33,8 +33,7 @@ Creamos una nueva tabla llamada CLIENTS que almacenaría datos correspondientes 
 
 A continuación el diagrama de nuestras tablas en SQL :
 
-
-<img src="/Users/joseluisreguera/Desktop/IRONHACK/sql_proyecto/IMG.jpg">
+![proyecto](IMG/Captura de pantalla 2023-04-30 a las 19.13.21.png)
 
 
 
