@@ -33,7 +33,8 @@ Creamos una nueva tabla llamada CLIENTS que almacenaría datos correspondientes 
 
 A continuación el diagrama de nuestras tablas en SQL :
 
-![proyecto](IMG/Captura de pantalla 2023-04-30 a las 19.13.21.png)
+
+<img src="https://github.com/jose-luis666/sql_proyecto/blob/main/IMG/Captura%20de%20pantalla%202023-04-30%20a%20las%2019.13.21.png">
 
 
 
