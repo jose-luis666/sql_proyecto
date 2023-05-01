@@ -37,3 +37,4 @@ A continuación el diagrama de nuestras tablas en SQL :
 <img src="/Users/joseluisreguera/Desktop/IRONHACK/sql_proyecto/IMG.jpg">
 
 
+
